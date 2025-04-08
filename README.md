@@ -26,7 +26,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 
-I am **Md. Rafiul Islam**, a Senior Software Engineer and Project Manager with 8+ years of experience in full-stack development, system architecture, and DevOps practices. I specialize in **React.js**, **Next.js**, **Angular.js**, **Laravel**, and **Node.js**, and have a passion for building scalable web applications and leading remote teams. Currently, **I'm open to work and employment opportunities** (remote preferred).
+I am **Md. Rafiul Islam**, a Senior Software Engineer and Project Manager with **8+ years of experience** in full-stack development, system architecture, and DevOps practices. I specialize in **React.js**, **Next.js**, **Angular.js**, **Laravel**, and **Node.js**, and have a passion for building scalable web applications and leading remote teams. Currently, **I'm open to work and employment opportunities** (remote preferred).
 
 ---
 
