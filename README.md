@@ -26,7 +26,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 
-I am **Md. Rafiul Islam**, a Senior Software Engineer and Project Manager with **8+ years of experience** in full-stack development, system architecture, and DevOps practices. I specialize in **React.js**, **Next.js**, **Angular.js**, **Laravel**, and **Node.js**, and have a passion for building scalable web applications and leading remote teams. Currently, **I'm open to work and employment opportunities** (remote preferred).
+I am **Md. Rafiul Islam**, a Lead Software Engineer and Project Manager with **8+ years of experience** in full-stack development, system architecture, and DevOps practices. I specialize in **React.js**, **Next.js**, **Angular.js**, **Laravel**, and **Node.js**, and have a passion for building scalable web applications and leading remote teams. Currently, **I'm open to work and employment opportunities** (remote preferred).
 
 ---
 
@@ -86,6 +86,6 @@ I believe that every day is a learning opportunity. Currently, I'm diving deeper
 
 ### 🌍 Where to Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rafiul-islam) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rafiul-islam-490607413) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/rafiul1009)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=portfolio&logoColor=white)](https://www.rafiulislam.com)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=portfolio&logoColor=white)](https://rafiulislam.com)
