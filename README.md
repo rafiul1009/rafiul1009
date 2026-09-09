@@ -76,11 +76,11 @@ I believe that every day is a learning opportunity. Currently, I'm diving deeper
 
 ### 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiul1009&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![rafiul1009 — Stats Overview](https://profilecraft.mrix.net/api/widget/stats?username=rafiul1009&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafiul1009&theme=dracula&hide_border=true)
+![rafiul1009 — Contribution Streak](https://profilecraft.mrix.net/api/widget/streak?username=rafiul1009&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul1009&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![rafiul1009 — Top Languages](https://profilecraft.mrix.net/api/widget/top-langs?username=rafiul1009&theme=radical)
 
 ---
 
